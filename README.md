@@ -10,7 +10,7 @@ The proposed Conversational agent is meant to operate within the **psychological
  
  Tensorflow 2.0 has been used for this usecase.
  
- ### Datasets used
+ ### Datasets used:
   1. [Facebook Data:](https://drive.google.com/file/d/1HoQCutYAlxqcaQg2WRhuhwy3JoKTJE77/view?usp=sharing)<br />
      This is an opensource dataset comprising of many open domain conversations of about 5-6 sentences, which make up for 58881 input-output pairs.
 
@@ -19,4 +19,8 @@ The proposed Conversational agent is meant to operate within the **psychological
      
 ### Saved Model Weights:
 The best performing model weights can be found [here](https://drive.google.com/file/d/1nTk24QbrpknghAIOhSq3cLacOGpnRsok/view?usp=sharing) and index file [here](https://drive.google.com/file/d/1Yg5R_KaXr4pknYHS_ILC3wTk_eopTpZA/view?usp=sharing).
+
+### Evaluation Metrics:
+  1. Loss
+  2. Perplexity
 
