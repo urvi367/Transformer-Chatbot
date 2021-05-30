@@ -1,6 +1,6 @@
 ## Transformer Chatbot
 
-The proposed project aims to create a **generative model for Conversational AI agents**, limited to the language English. The agent must be able to comprehend the input statement and generate close-to-human responses.<br />
+The proposed project aims to create a **generative model for Conversational AI agents**, limited to the language English. The agent must be able to comprehend the input statement and generate close-to-human responses for single-turn and multi-turn dialogue.<br />
 It aims to aid people with their mental health issues, hence acting as a **TherapyBot**.
 
 The proposed Conversational agent is meant to operate within the **psychological space** adhering to the following: 
